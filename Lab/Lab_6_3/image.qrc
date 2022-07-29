@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/anh1.jpg</file>
+        <file>Image/anh2.jpg</file>
+        <file>Image/anh4.jpg</file>
+        <file>Image/anh16.jpg</file>
+        <file>Image/anh18.jpg</file>
+        <file>Image/anh19.jpg</file>
+        <file>Image/anh20.jpg</file>
+        <file>Image/anh21.jpg</file>
+        <file>Image/anh22.jpg</file>
+        <file>Image/anh23.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image - Resource/bg_full.png</file>
+        <file>image - Resource/Button.png</file>
+        <file>image - Resource/Connections.png</file>
+        <file>image - Resource/Display.png</file>
+        <file>image - Resource/General.png</file>
+        <file>image - Resource/Link.png</file>
+        <file>image - Resource/Navigation.png</file>
+        <file>image - Resource/Sound.png</file>
+        <file>image - Resource/User Profile.png</file>
+        <file>image - Resource/Vehicle.png</file>
+        <file>image - Resource/Voice.png</file>
+    </qresource>
+</RCC>
